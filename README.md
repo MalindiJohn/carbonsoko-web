@@ -3,6 +3,10 @@
 
 Web app for Carbon Soko Platform
 
+## Description
+
+...hold on, something is coming soon here.
+
 ## Getting Started
 
 First, run the development server:
